@@ -1,6 +1,6 @@
 <template>
     <div>
-
+        <h1>Vote list</h1>
     </div>
 </template>
 

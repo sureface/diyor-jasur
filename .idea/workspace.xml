@@ -19,9 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="199dded1-3839-4365-b75c-3e271510c6cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dsadasd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="cc05235f-4e5e-4910-ac08-b195dd41e032" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UploadPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UploadPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/VoteList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VoteList.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="20aZShmQLLqm9X4IFwUHRxVqZlg" />
+  <component name="ProjectId" id="20ammLENntNy18oCSxSbg42sLkr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -40,22 +47,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lexuz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="199dded1-3839-4365-b75c-3e271510c6cd" name="Default Changelist" comment="" />
-      <created>1636284661321</created>
+      <changelist id="cc05235f-4e5e-4910-ac08-b195dd41e032" name="Default Changelist" comment="" />
+      <created>1636291230397</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636284661321</updated>
-      <workItem from="1636284665761" duration="122000" />
+      <updated>1636291230397</updated>
+      <workItem from="1636291233892" duration="1501000" />
+      <workItem from="1636292754126" duration="2392000" />
     </task>
     <servers />
   </component>
@@ -72,5 +88,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1636292391682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636292391682" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1636292391682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636292391682" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1636292391682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636292391682" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1636292391682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636292391682" />
   </component>
 </project>

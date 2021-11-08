@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc05235f-4e5e-4910-ac08-b195dd41e032" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/main.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/VoteList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VoteList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

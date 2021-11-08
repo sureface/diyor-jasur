@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <h1>Vote list</h1>
+    <div >
+dsadasdsad
     </div>
 </template>
 
@@ -11,5 +11,6 @@
 </script>
 
 <style scoped>
+
 
 </style>

@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc05235f-4e5e-4910-ac08-b195dd41e032" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/VoteList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VoteList.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +59,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\diyor-jasur\src\pages" />
+      <recent name="D:\Projects\diyor-jasur\src" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,6 +77,8 @@
       <updated>1636291230397</updated>
       <workItem from="1636291233892" duration="1501000" />
       <workItem from="1636292754126" duration="2392000" />
+      <workItem from="1636346805158" duration="2347000" />
+      <workItem from="1636349222193" duration="1905000" />
     </task>
     <servers />
   </component>
@@ -87,6 +101,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="694" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636349342763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="694" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636349342763" />
     <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1636292391682">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -103,5 +121,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636292391682" />
+    <state x="803" y="161" key="RollbackChangesDialog" timestamp="1636346991446">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="803" y="161" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636346991446" />
   </component>
 </project>

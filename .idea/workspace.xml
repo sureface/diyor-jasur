@@ -23,9 +23,7 @@
       <change afterPath="$PROJECT_DIR$/src/components/footer/footer.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/header/header.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/UploadPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UploadPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/VoteList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VoteList.vue" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,9 +125,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636292391682" />
-    <state x="803" y="161" key="RollbackChangesDialog" timestamp="1636346991446">
+    <state x="803" y="161" key="RollbackChangesDialog" timestamp="1636452541277">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="803" y="161" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636346991446" />
+    <state x="803" y="161" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636452541277" />
   </component>
 </project>

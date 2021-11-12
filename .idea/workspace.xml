@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc05235f-4e5e-4910-ac08-b195dd41e032" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserRating.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UploadPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UploadPage.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,9 +126,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636292391682" />
-    <state x="803" y="161" key="RollbackChangesDialog" timestamp="1636452541277">
+    <state x="803" y="161" key="RollbackChangesDialog" timestamp="1636616178217">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="803" y="161" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636452541277" />
+    <state x="803" y="161" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636616178217" />
+    <state x="620" y="196" width="672" height="676" key="search.everywhere.popup" timestamp="1636617213518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="620" y="196" width="672" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1636617213518" />
   </component>
 </project>

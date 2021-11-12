@@ -14,99 +14,9 @@
                         <div class="mb-12">
                             <div class="text-lg text-gray-500 mb-3">Сотрудники</div>
 
-
-                            <div class="flex items-center justify-between w-full h-20 bg-white rounded px-5 mb-4">
-                                <div>
-                                    <div class="text-xl font-semibold">Корчагин Алексей Сергеевич</div>
-                                    <div class="text-sm text-gray-400">АО оаРВ РВп, Участок, длиный текст</div>
-                                </div>
-
-                                <div class="flex items-center">
-                                    <div class="mr-5 flex items-center">
-                                        <span class="flex items-center text-3xl text-gray-400 mr-4">
-                                            0
-                                            <i class="fas fa-star ml-3 text-3xl text-gray-400"></i>
-                                        </span>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                    </div>
-                                    <button type="button" class="flex items-center px-4 py-3 border border-blue-500 bg-white rounded-lg text-lg font-bold text-blue-500"><i class="fas fa-comment-alt-lines text-blue-500 mr-3 text-2xl"></i> Комментарий</button>
-                                </div>
-                            </div>
-
-                            <div class="flex items-center justify-between w-full h-20 bg-white rounded px-5 mb-4">
-                                <div>
-                                    <div class="text-xl font-semibold">Корчагин Алексей Сергеевич</div>
-                                    <div class="text-sm text-gray-400">АО оаРВ РВп, Участок, длиный текст</div>
-                                </div>
-
-                                <div class="flex items-center">
-                                    <div class="mr-5 flex items-center">
-                                        <span class="flex items-center text-3xl text-yellow-400 mr-4">
-                                            5
-                                            <i class="fas fa-star ml-3 text-3xl text-yellow-400"></i>
-                                        </span>
-                                        <i class="fas fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                    </div>
-                                    <button type="button" class="flex items-center px-4 py-3 border border-gray-200 bg-white rounded-lg text-lg font-bold text-gray-200"><i class="fas fa-comment-alt-lines text-gray-200 mr-3 text-2xl"></i> Комментарий</button>
-                                </div>
-                            </div>
-
-                            <div class="flex items-center justify-between w-full h-20 bg-white rounded px-5 mb-4">
-                                <div>
-                                    <div class="text-xl font-semibold">Корчагин Алексей Сергеевич</div>
-                                    <div class="text-sm text-gray-400">АО оаРВ РВп, Участок, длиный текст</div>
-                                </div>
-
-                                <div class="flex items-center">
-                                    <div class="mr-5 flex items-center">
-                                        <span class="flex items-center text-3xl text-yellow-400 mr-4">
-                                            5
-                                            <i class="fas fa-star ml-3 text-3xl text-yellow-400"></i>
-                                        </span>
-                                        <i class="fas fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                        <i class="far fa-star text-3xl text-yellow-400"></i>
-                                    </div>
-                                    <button type="button" class="flex items-center px-4 py-3 border border-gray-200 bg-white rounded-lg text-lg font-bold text-gray-200"><i class="fas fa-comment-alt-lines text-gray-200 mr-3 text-2xl"></i> Комментарий</button>
-                                </div>
-                            </div>
-
-                            <div class="flex items-center justify-between w-full h-20 bg-pink-100 border border-red-200 rounded px-5 mb-4">
-                                <div>
-                                    <div class="text-xl font-semibold">Корчагин Алексей Сергеевич</div>
-                                    <div class="text-sm text-gray-400">АО оаРВ РВп, Участок, длиный текст</div>
-                                </div>
-
-                                <div class="flex items-center">
-                                    <div class="mr-5 flex items-center">
-                                        <span class="flex items-center text-3xl text-gray-400 mr-4">
-                                            <i class="far fa-star ml-3 text-3xl text-gray-400"></i>
-                                        </span>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                        <i class="far fa-star text-3xl text-gray-400"></i>
-                                    </div>
-                                    <button type="button" class="flex items-center px-4 py-3 border border-gray-300 bg-pink-100 rounded-lg text-lg font-bold text-gray-300"><i class="fas fa-comment-alt-lines text-gray-300 mr-3 text-2xl"></i> Комментарий</button>
-                                </div>
-                            </div>
-
                             <div class="flex items-center justify-between w-full h-20 bg-gray-300 rounded px-5 mb-4">
-                                <div>
-                                    <div class="text-xl font-semibold">Корчагин Алексей Сергеевич</div>
-                                    <div class="text-sm text-gray-400">АО оаРВ РВп, Участок, длиный текст</div>
-                                </div>
+
+                                <UserRating></UserRating>
 
                                 <div class="flex items-center">
                                     <h2 class="text-gray-400 text-lg mr-4">Сотрудник в отпуске</h2>
@@ -128,17 +38,26 @@
 <script>
     import Header from "../components/header/header.vue"
     import Footer from "../components/footer/footer.vue"
+    import UserRating from "../components/UserRating.vue"
     export default {
         components: {
             Header,
-            Footer
-        }
+            Footer,
+            UserRating
+        },
+        data() {
+          return {
+          }
+        },
     }
 </script>
 
 <style lang="scss">
     body {
         background: #EFF1F2;
+        .fa-star{
+            cursor: pointer;
+        }
 
         .container-default {
             max-width: 1100px;

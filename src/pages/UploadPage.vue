@@ -13,16 +13,11 @@
                         <!-- peoples -->
                         <div class="mb-12">
                             <div class="text-lg text-gray-500 mb-3">Сотрудники</div>
-
-                            <div class="flex items-center justify-between w-full h-20 bg-gray-300 rounded px-5 mb-4">
-
-                                <UserRating></UserRating>
-
-                                <div class="flex items-center">
-                                    <h2 class="text-gray-400 text-lg mr-4">Сотрудник в отпуске</h2>
-                                    <i class="fas fa-island-tropical text-3xl text-gray-400"></i>
-                                </div>
-                            </div>
+                            <UserRating></UserRating>
+                            <UserRating></UserRating>
+                            <UserRating></UserRating>
+                            <UserRating></UserRating>
+                            <UserRating></UserRating>
                         </div>
                         <div class="w-full flex items-center justify-end">
                             <button type="button" class="h-20 bg-blue-500 text-white text-lg font-bold px-16 rounded-lg">Проголосовать</button>
@@ -55,18 +50,22 @@
 <style lang="scss">
     body {
         background: #EFF1F2;
-        .fa-star{
-            cursor: pointer;
-        }
+        .wrapper-vote-page {
 
-        .container-default {
-            max-width: 1100px;
-
-            .gray-text{
-                color: #909090;
+            .fa-star {
+                cursor: pointer;
             }
-            .gray-background{
-                background: #E2E3E3;
+
+            .container-default {
+                max-width: 1100px;
+
+                .gray-text {
+                    color: #909090;
+                }
+
+                .gray-background {
+                    background: #E2E3E3;
+                }
             }
         }
     }

@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc05235f-4e5e-4910-ac08-b195dd41e032" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UserRating.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserRating.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserRating.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/UploadPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UploadPage.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +82,7 @@
       <workItem from="1636292754126" duration="2392000" />
       <workItem from="1636346805158" duration="2347000" />
       <workItem from="1636349222193" duration="1905000" />
+      <workItem from="1636960505607" duration="3032000" />
     </task>
     <servers />
   </component>
